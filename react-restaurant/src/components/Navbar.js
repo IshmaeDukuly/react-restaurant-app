@@ -7,9 +7,9 @@ export default function Navbar() {
         <div className="navbar">
          <ul>
             <li><a href="/Home">Home</a></li>
-            <li><a href="/Home">Online Puchase</a></li>
-            <li><a href="/Home">Restaurants</a></li>
-            <li><a href="/Home">Contact Us</a></li>
+            <li><a href="/Online">Online Puchase</a></li>
+            <li><a href="/Restaurant">Restaurants</a></li>
+            <li><a href="/Contact">Contact Us</a></li>
          </ul>
         </div>
         </>
